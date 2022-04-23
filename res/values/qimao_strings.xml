@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
 
-    Copyright (C) 2022 Acme
+    Copyright (C) 2022 Project-QiMao
 
     SPDX-License-Identifier: Apache-2.0
 
@@ -9,5 +9,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="build_date">Build date</string>
+
+    <!-- Project-QiMao version -->
+    <string name="qimao_version">Project-QiMao version</string>
 
 </resources>
