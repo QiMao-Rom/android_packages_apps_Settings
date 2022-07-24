@@ -13,6 +13,10 @@
     <!-- Project-QiMao version -->
     <string name="qimao_version">Project-QiMao version</string>
 
+    <!-- Maintainer name -->
+    <string name="qimao_maintainer">Maintainer</string>
+    <string name="qimao_maintainer_url" translatable="false">http://127.0.0.1</string>
+
     <!-- Three-fingers-swipe to screenshot -->
     <string name="three_finger_gesture">Swipe to screenshot</string>
     <string name="three_finger_gesture_summary">Swipe down with three fingers to take a screenshot</string>

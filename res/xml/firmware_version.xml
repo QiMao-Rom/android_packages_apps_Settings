@@ -23,11 +23,19 @@
 
     <!-- Project-QiMao version -->
     <Preference
-            android:key="os_qimao_version"
-            android:title="@string/qimao_version"
-            android:summary="@string/summary_placeholder"
-            settings:enableCopying="true"
-            settings:controller="com.android.settings.deviceinfo.firmwareversion.QiMaoVersionPreferenceController"/>
+        android:key="os_qimao_version"
+        android:title="@string/qimao_version"
+        android:summary="@string/summary_placeholder"
+        settings:enableCopying="true"
+        settings:controller="com.android.settings.deviceinfo.firmwareversion.QiMaoVersionPreferenceController"/>
+
+    <!-- Maintenance personnel information -->
+    <Preference
+        android:key="os_qimao_maintainer"
+        android:title="@string/qimao_maintainer"
+        android:summary="@string/summary_placeholder"
+        settings:enableCopying="true"
+        settings:controller="com.android.settings.deviceinfo.firmwareversion.MaintainerPreferenceController"/>
 
     <!-- Android version -->
     <Preference
