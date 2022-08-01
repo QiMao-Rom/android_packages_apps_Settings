@@ -37,4 +37,9 @@
     <string name="unit_seconds">秒</string>
     <string name="unit_milliseconds">毫秒</string>
     <string name="unit_pixels">dp</string>
+
+    <!-- Fingerprint Ripple Effect -->
+    <string name="enable_fingerprint_ripple_effect_title">波纹效果</string>
+    <string name="enable_fingerprint_ripple_effect_summary">使用指纹解锁时显示波纹效果</string>
+
 </resources>
