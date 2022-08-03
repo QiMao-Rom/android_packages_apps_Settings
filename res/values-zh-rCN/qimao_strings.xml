@@ -42,4 +42,7 @@
     <string name="enable_fingerprint_ripple_effect_title">波纹效果</string>
     <string name="enable_fingerprint_ripple_effect_summary">使用指纹解锁时显示波纹效果</string>
 
+    <!-- Battery temperature -->
+    <string name="battery_temp">电池温度</string>
+
 </resources>
