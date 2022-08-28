@@ -10,8 +10,8 @@
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="build_date">构建日期</string>
 
-    <!-- Project-QiMao version -->
-    <string name="qimao_version">Project-QiMao 版本</string>
+    <!-- QiMao version -->
+    <string name="qimao_version">QiMao 版本</string>
 
     <!-- Maintainer name -->
     <string name="qimao_maintainer">维护人员</string>
